@@ -1,4 +1,4 @@
-# Phishing analysis and prevention
+# Recent threats
 
 ![Publish blue-recent using Sphinx](https://github.com/tymyrddin/blue-recent/workflows/Publish%20blue-recent%20using%20Sphinx/badge.svg?branch=main)
  

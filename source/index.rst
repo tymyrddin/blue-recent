@@ -10,17 +10,17 @@ Threat labs on the latest industry threats: identifying, exploiting, and mitigat
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Follina
+   :caption: 2022
 
-   docs/follina/README.md
+   docs/2022/follina.md
 
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Solar
+   :caption: 2021
 
-   docs/solar/README.md
+   docs/2021/solar.md
 
 .. toctree::
    :caption: Links
