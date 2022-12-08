@@ -75,7 +75,7 @@ html_show_copyright = False
 
 # Intersphinx
 intersphinx_mapping = {
-    "blue": ("https://tymyrddin.github.io/blue/", None),
-    "blue-edr": ("https://tymyrddin.github.io/blue-edr/", None),
+    "blue": ("https://blue.tymyrddin.dev/", None),
+    "blue-edr": ("https://blue.tymyrddin.dev/projects/edr/", None),
 }
 myst_url_schemes = ["http", "https", ]

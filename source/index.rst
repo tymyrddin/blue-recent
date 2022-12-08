@@ -25,4 +25,4 @@ Threat labs on the latest industry threats: identifying, exploiting, and mitigat
 .. toctree::
    :caption: Links
 
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Blue Team <https://blue.tymyrddin.dev/>
