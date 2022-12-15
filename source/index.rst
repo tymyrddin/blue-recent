@@ -1,10 +1,14 @@
 Recent threats
 ==========================================
 
+Threat labs on the latest industry threats: identifying, exploiting, and mitigating critical vulnerabilities.
+
+----
+
 .. image:: _static/images/in-progress.png
   :alt: In progress
 
-Threat labs on the latest industry threats: identifying, exploiting, and mitigating critical vulnerabilities.
+----
 
 .. toctree::
    :glob:
